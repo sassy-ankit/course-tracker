@@ -1,0 +1,15 @@
+.list-group-item {
+  padding: 5px 10px;
+}
+
+.panel {
+  margin-bottom: 4px;
+  padding: 0;
+}
+h2 {
+  margin-top: 10px;
+  margin-bottom: 0;
+}
+.panel-body {
+  padding: 0;
+}
